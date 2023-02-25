@@ -1,1 +1,1 @@
-# FHTEK-DOCS
+# docs
