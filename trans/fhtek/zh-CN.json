@@ -100,7 +100,7 @@
   "trans0099": "静态DNS",
   "trans0100": "首选DNS服务器",
   "trans0101": "备用DNS服务器",
-  "trans0102": "",
+  "trans0102": "trans0102",
   "trans0103": "开启",
   "trans0104": "过滤模式",
   "trans0105": "黑名单",
@@ -255,8 +255,8 @@
   "trans0255": "服务名称",
   "trans0256": "域名",
   "trans0257": "服务商",
-  "trans0258": "",
-  "trans0259": "",
-  "trans0260": "",
-  "trans0261": ""
+  "trans0258": "trans0258",
+  "trans0259": "trans0259",
+  "trans0260": "trans0260",
+  "trans0261": "trans0261"
 }
