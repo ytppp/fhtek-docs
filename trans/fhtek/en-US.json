@@ -1,6 +1,6 @@
 {
   "trans0001": "Select",
-  "trans0002": "Save",
+  "trans0002": "Apply",
   "trans0003": "Password may only contain %d-%d digits, letters or special characters, or any combination of these.",
   "trans0004": "Required",
   "trans0005": "%s is too long",
