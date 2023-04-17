@@ -469,7 +469,7 @@
   "trans0469": "%s 配置",
   "trans0470": "如果一个IPv6地址的首选寿命到期了，一般都禁止使用这个地址来启动新的连接",
   "trans0471": "SLAAC",
-  "trans0472": "DHCPv6",
+  "trans0472": "DHCPv6 服务",
   "trans0473": "DNS",
   "trans0474": "%s 状态",
   "trans0475": "RA 模式",
