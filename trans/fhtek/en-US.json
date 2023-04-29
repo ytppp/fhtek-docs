@@ -610,7 +610,7 @@
   "trans0610": "Invalid address prefix! Format for XXXX:XXXX:XXXX:XXXX::/XX",
   "trans0611": "Value range [%d-%d]",
   "trans0612": "Leave blank for unlimited speed",
-  "trans0613": "trans0613",
+  "trans0613": "device(s)",
   "trans0614": "5G mode",
   "trans0615": "5G Wi-Fi Bandwidth Settings",
   "trans0616": "Log in",
