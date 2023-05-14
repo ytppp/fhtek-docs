@@ -259,7 +259,7 @@
   "trans0258": "Terminal WAN management protocol(TR069) allows automatic configuration server(ACS) to automatically configuate the gateway,\nassign business, collect status and statistical information and diagnose.After input related information, please click on the \"Confirm\" to configure the parameters of TR-069 client.",
   "trans0259": "Periodic Notification",
   "trans0260": "Periodic Notification Time Interval",
-  "trans0261": "Server Domain Name/IPAddress and Port",
+  "trans0261": "Server Domain Name",
   "trans0262": "Platform User Name",
   "trans0263": "Platform Password",
   "trans0264": "Terminal User Name",
