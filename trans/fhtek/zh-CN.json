@@ -518,7 +518,7 @@
   "trans0518": "20/40MHz",
   "trans0519": "5G Wi-Fi",
   "trans0520": "5G Wi-Fi 信道\t",
-  "trans0521": "trans0521",
+  "trans0521": "若要使用Mesh功能，推荐将 Wi-Fi 安全模式设置为 %s",
   "trans0522": "80MHz",
   "trans0523": "20/40/80MHz",
   "trans0524": "11a",

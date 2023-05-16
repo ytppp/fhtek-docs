@@ -518,7 +518,7 @@
   "trans0518": "20/40MHz",
   "trans0519": "5G Wi-Fi",
   "trans0520": "5G Wi-Fi channels",
-  "trans0521": "trans0521",
+  "trans0521": "To use the Mesh function, please set the Wi-Fi security mode to %s",
   "trans0522": "80MHz",
   "trans0523": "20/40/80MHz",
   "trans0524": "11a",
