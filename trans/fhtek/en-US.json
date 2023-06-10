@@ -11,7 +11,7 @@
   "trans0010": "Webpage locked,please login after %d s",
   "trans0011": "You already login incorrectly for %d time",
   "trans0012": "Account is logged in",
-  "trans0013": "trans0013",
+  "trans0013": "%s cannot contain symbols: %s",
   "trans0014": "Internet",
   "trans0015": "Device Control",
   "trans0016": "More",
