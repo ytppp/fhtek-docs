@@ -201,7 +201,7 @@
   "trans0200": "Destination IP subnet mask is illegal",
   "trans0201": "Password reset complete",
   "trans0202": "The password has been changed, please log in again",
-  "trans0203": "trans0203",
+  "trans0203": "The upgrade may take several minutes. Do not turn off the power supply during the upgrade.After the upgrade is complete, the device will restart automatically",
   "trans0204": "Are you sure to delete this uplink IP rule?",
   "trans0205": "Drag and drop files to upload",
   "trans0206": "File upload failed. Please try again",
