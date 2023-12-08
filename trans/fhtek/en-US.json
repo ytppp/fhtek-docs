@@ -633,7 +633,7 @@
   "trans0633": "The default gateway cannot be the same as the IP address ",
   "trans0634": "Import configuration file",
   "trans0635": "It may take several minutes to import the configuration file, please do not turn off the power during the process. When complete, the device will automatically reboot",
-  "trans0636": "not internet",
+  "trans0636": "no internet",
   "trans0637": "Preferred DNS and Alternate DNS cannot be the same",
   "trans0638": "Mapping name already exists",
   "trans0639": "External port already used",
