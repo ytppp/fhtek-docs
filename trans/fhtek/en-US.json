@@ -42,7 +42,7 @@
   "trans0041": "When some Wi-Fi 5 devices (such as some notebooks using Intel network cards) cannot scan for Wi-Fi 6 signals due to old network card drivers, you can connect to this Wi-Fi signal",
   "trans0042": "letters, digits or special characters: !#$*+-.=?@_~",
   "trans0043": "Keep the password consistent with the Wi-Fi password of the corresponding frequency band",
-  "trans0044": "Power Level",
+  "trans0044": "Transmit Power",
   "trans0045": "Low",
   "trans0046": "Medium",
   "trans0047": "High",
