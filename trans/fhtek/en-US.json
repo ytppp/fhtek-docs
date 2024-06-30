@@ -664,8 +664,10 @@
   "trans0664": "The system time is not synchronized, please refer to the router system time",
   "trans0665": "Parent Control",
   "trans0666": "Please select at least one day",
-  "trans0667": "Access allowed",
-  "trans0668": "Access denied",
+  "trans0667": "Permit",
+  "trans0668": "Forbid",
   "trans0669": "Action",
-  "trans0670": "trans0670"
+  "trans0670": "Period ",
+  "trans0671": "Terminal Name",
+  "trans0672": "Time Policy Name"
 }
