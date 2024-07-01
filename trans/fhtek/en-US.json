@@ -661,7 +661,7 @@
   "trans0661": "The settings are being saved,please wait...",
   "trans0662": "The default gateway and IP address should be on the same network segment",
   "trans0663": "Sun",
-  "trans0664": "The system time is not synchronized, please refer to the router system time",
+  "trans0664": "This function does not take ettect when the system time is not synchronized",
   "trans0665": "Parent Control",
   "trans0666": "Please select at least one day",
   "trans0667": "Permit",
@@ -669,5 +669,6 @@
   "trans0669": "Action",
   "trans0670": "Period ",
   "trans0671": "Terminal Name",
-  "trans0672": "Time Policy Name"
+  "trans0672": "Time Policy Name",
+  "trans0673": "%s and %s cannot be at the same time"
 }
