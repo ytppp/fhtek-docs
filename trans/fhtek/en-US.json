@@ -471,7 +471,7 @@
   "trans0471": "SLAAC",
   "trans0472": "DHCPv6 Server",
   "trans0473": "DNS",
-  "trans0474": "When the end time is less than the start time, the end time will not end until the next day",
+  "trans0474": "If the start time is later than the end time, the duration spans from the current day into the next day",
   "trans0475": "RA Mode",
   "trans0476": "Prefix",
   "trans0477": "Prefix Length",
