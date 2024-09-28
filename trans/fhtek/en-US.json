@@ -520,7 +520,7 @@
   "trans0520": "5G Wi-Fi channels",
   "trans0521": "To use the Mesh function, please set the Wi-Fi security mode to %s",
   "trans0522": "Remaining time",
-  "trans0523": "%d seconds",
+  "trans0523": "1 second | {second} seconds",
   "trans0524": "Time Range",
   "trans0525": "Tue",
   "trans0526": "Wed",
