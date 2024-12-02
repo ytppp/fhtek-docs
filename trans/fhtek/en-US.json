@@ -437,7 +437,7 @@
   "trans0437": "Start Trigger Port is must be an integer ranging from 1 to 65535",
   "trans0438": "The end trigger port must be greater than the start trigger port .",
   "trans0439": "The trigger port already exists.",
-  "trans0440": "trans0440",
+  "trans0440": "Port Status",
   "trans0441": "End Trigger Port is must be an integer ranging from 1 to 65535",
   "trans0442": "trans0442",
   "trans0443": "Start Open Port is must be an integer ranging from 1 to 65535",
