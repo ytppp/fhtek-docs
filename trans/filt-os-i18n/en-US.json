@@ -443,7 +443,7 @@
   "trans0443": "Start Open Port is must be an integer ranging from 1 to 65535",
   "trans0444": "The end open port must be smaller than  the start open port .",
   "trans0445": "The Open Port already exists.",
-  "trans0446": "trans0446",
+  "trans0446": "External Host",
   "trans0447": "trans0447",
   "trans0448": "The number of Port trigger reached the upper limit. The maximum number of Port trigger was 16.",
   "trans0449": "Internal Host",
