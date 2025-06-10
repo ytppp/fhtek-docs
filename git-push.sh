@@ -1,5 +1,8 @@
 #!/bin/bash
 
+git add .
+git commit -m "update i18n"
+
 # 获取所有远程仓库名称
 remotes=$(git remote)
 
