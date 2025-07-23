@@ -1,5 +1,7 @@
 #!/bin/bash
 
+./main.exe
+
 git add .
 git commit -m "update i18n"
 
