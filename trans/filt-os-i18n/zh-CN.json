@@ -215,7 +215,7 @@
   "trans0214": "文件类型",
   "trans0215": "过滤规则名字",
   "trans0216": "然后在120秒内长按“从设备”WPS按键5秒，松开后指示灯开始快速闪烁，此时两台路由器开始组网",
-  "trans0217": "(Format: AA:BB:CC:DD:EE:FF)",
+  "trans0217": "AA:BB:CC:DD:EE:FF",
   "trans0218": "是否启用MAC过滤？",
   "trans0219": "是否禁用MAC过滤？",
   "trans0220": "更改过滤模式将切换所有筛选规则。是否确实要将过滤器模式更改为白名单？",
@@ -410,7 +410,7 @@
   "trans0410": "trans0410",
   "trans0411": "只允许选择一条记录删除",
   "trans0412": "连接中断",
-  "trans0413": "(XXXX:XXXX:XXXX:XXXX)",
+  "trans0413": "XXXX:XXXX:XXXX:XXXX",
   "trans0414": "接口 ID",
   "trans0415": "局域网 IP 地址",
   "trans0416": "接口ID %s 不正确，正确的格式为（XXXX:XXXX:XXXX:XXXX）。",
@@ -939,6 +939,6 @@
   "trans0939": "确认将这台设备加入 MAC 过滤黑名单吗",
   "trans0940": "确认开启 Wi-fi MAC 过滤吗",
   "trans0941": "确认开启 MAC 过滤吗",
-  "trans0942": "trans0942",
+  "trans0942": "IPV6 GUA地址是接口ID与LAN侧配置的子\n网前缀的组合",
   "trans0943": "trans0943"
 }
