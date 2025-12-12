@@ -956,5 +956,5 @@
   "trans0956": "Synchronize 5G Settings",
   "trans0957": "%s can‘t contain the following characters: %s",
   "trans0958": "Leave blank for all address",
-  "trans0959": "trans0959"
+  "trans0959": "If input is provided, the format is: %s"
 }
